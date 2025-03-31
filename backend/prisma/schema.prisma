@@ -18,5 +18,5 @@ model Koncert {
   fellepo    String
   kezdesiIdo DateTime
   idotartam  Int
-  elmaradE   Boolean
+  elmaradE   Boolean?
 }
